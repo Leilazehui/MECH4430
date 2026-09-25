@@ -29,3 +29,7 @@
 - It checks whether is queue is full or empty. If it is, it returns 1 or true, otherwise, it returns 0 or false.
 
 #### Example: queue at a service center
+
+### Array implmentation of queue
+
+
