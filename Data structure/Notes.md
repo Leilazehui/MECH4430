@@ -10,6 +10,7 @@
 - Weighted: the edges between the vertexes are different. Some are shorter, some are longer, and these corresponds to different weight of each edge.
 - Unweighted: the edges between the vertexes are the same no matter which direction it goes
 
+#### Example: social network
 
 ## Queue
 
@@ -26,3 +27,5 @@
 
 ### isfull()/isempty()
 - It checks whether is queue is full or empty. If it is, it returns 1 or true, otherwise, it returns 0 or false.
+
+#### Example: queue at a service center
