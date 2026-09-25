@@ -31,5 +31,5 @@
 #### Example: queue at a service center
 
 ### Array implmentation of queue
-
+https://youtu.be/okr-XE8yTO8?si=wggh3qYxhi23Qx8k
 
